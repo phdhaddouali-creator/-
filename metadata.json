@@ -1,0 +1,6 @@
+{
+  "name": "النموذج الأولي لمنصة ريادي للتمويل الجماعي الإسلامي",
+  "description": "النموذج الأولي التفاعلي وصور واجهات منصة «ريادي» الذكية للتمويل الجماعي الإسلامي في الجزائر برؤية مقاصدية وفق معايير AAOIFI ونظام COSOB 01-23.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
